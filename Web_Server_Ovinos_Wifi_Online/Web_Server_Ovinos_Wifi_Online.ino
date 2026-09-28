@@ -14,8 +14,8 @@
 #include <math.h>
 
 // --- CREDENCIAIS DA REDE ---
-const char* ssid = "Japa 605";
-const char* password = "Gabriel10";
+const char* ssid = "XXXXXX";
+const char* password = "XXXXXX";
 
 // --- OBJETOS DO SERVIDOR ---
 AsyncWebServer server(80);
